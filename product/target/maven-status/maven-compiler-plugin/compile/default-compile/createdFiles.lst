@@ -1,0 +1,7 @@
+com\hiberus\products\repository\ProductRepository.class
+com\hiberus\products\controller\ProductApiController.class
+com\hiberus\products\App.class
+com\hiberus\products\config\SwaggerConfig.class
+com\hiberus\products\model\Product.class
+com\hiberus\products\dto\path\ApiPath.class
+com\hiberus\products\dto\ProductDto.class
